@@ -1,0 +1,208 @@
+body {
+    font-family: 'Montserrat', sans-serif;
+    margin: 0;
+    padding: 0;
+    font-size: 20px;
+    font-weight: 500;
+    color: #333;
+    letter-spacing: 0.03em;
+    line-height: 1.55em;
+    background-color: rgb(218, 216, 216);
+    padding-bottom: 3000px;
+}
+
+p {
+    letter-spacing: 0.03em;
+    line-height: 1.55em;
+    margin: 0;
+}
+
+h1, h2, h3, h4, h5, h6 {
+    font-weight: 500;
+    padding: 0;
+    margin: 0;
+    line-height: 1.4em;
+}
+
+.container {
+    width: 1110px;
+    margin: 0 auto;
+}
+
+.header {
+    padding-top: 75px;
+}
+
+.header-content {
+    display: flex;
+    justify-content: space-between;
+}
+
+
+.nav {
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    margin-bottom: 150px;
+}
+
+a {
+    color: #333;
+    text-decoration: none;
+}
+
+.offer {
+    margin-bottom: 98px;
+}
+
+.place {
+    font-size: 45px;
+    text-transform: uppercase;
+    letter-spacing: 0.07em;
+    margin-bottom: 117px;
+}
+
+.offer-title {
+    font-size: 25px;
+    font-family: Mitr;
+    margin-bottom: 117px;
+    width: 525px;
+}
+
+.desc {
+    font-size: 23px;
+    font-family: Mitr;
+    margin-bottom: 23px;
+    width: 482px;
+}
+
+.btn {
+    color: #BB3F3F;
+    background-color: rgb(207, 198, 198);
+    font-size: 18px;
+    padding: 18px 30px;
+    font-weight: normal;
+    font-family: Mitr;
+    display: block;
+    width: 139px;
+    text-align: center;
+    margin-bottom: 190px;
+    border-radius: 2%;
+}
+
+.btn:hover {
+    background-color:#ac8888 ;
+}
+
+.btn:active {
+    background-color: #a36a6a;
+}
+
+.LevX-img {
+margin-bottom: 290px;
+margin-left: 45px;
+}
+
+/* Вторая секция */
+
+
+.section {
+    margin-bottom: 98px;
+    font-size: 27px;
+    text-transform: uppercase;
+    margin-bottom: 205px;
+}
+
+.offer2 {
+width: 400px;
+font-family: mitr;
+font-size: 23px;
+margin-bottom: 400px;
+}
+
+.mask {
+position: absolute;
+width: 168px;
+height: 168px;
+left: 1282px;
+top: 1500px;
+margin-bottom: 80px;
+}
+
+.mask2 {
+ position: absolute;
+ width: 168px;
+ height: 196px;
+ left: 1282px;
+ top: 1780px;
+}
+
+.info-text { 
+ position: absolute;
+ width: 442px;
+ height: 60px;
+ left: 870px;
+top: 1520px;
+font-size: 19px;
+font-family: mitr;
+line-height: 30px;
+}
+
+.info-text2 {
+position: absolute;
+width: 368px;
+height: 60px;
+left: 870px;
+top: 1800px;
+font-family: mitr;
+font-size: 19px;
+line-height: 30px;
+}
+
+.name {
+position: absolute;
+width: 102px;
+height: 30px;
+left: 1070px;
+top: 1590px;
+font-weight: 600;
+font-size: 19px;
+line-height: 30px;
+}
+
+.name2 {
+ position: absolute;
+width: 50px;
+height: 30px;
+left: 1099px;
+top: 1940px;
+font-weight: 600;
+font-size: 19px;
+line-height: 30px;
+margin-bottom: 390px;
+}
+
+/* footer */
+
+footer {
+    width: 100%;
+    height: auto;
+    background: rgb(110, 108, 108);
+    margin: 0 auto;
+    text-align: center;
+    padding-top: 25px;
+    height: 350px;
+}
+
+h4 {
+    color: white;
+    size: 30px;
+    font-family:Montserrat;
+}
+
+p2 {
+    color: white;
+    font-family:Montserrat;
+}
+
+
